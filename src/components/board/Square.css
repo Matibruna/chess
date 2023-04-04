@@ -1,0 +1,39 @@
+.square{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+}
+
+.black{
+    background-color: rgb(59, 59, 59);
+}
+
+.white{
+    background-color: rgb(255, 254, 240);
+}
+
+.selectedblack {
+    background-color: #9ad7ff !important;
+}
+
+.selectedwhite {
+    background-color: #ecff70 !important;
+}
+
+.movementAvailable{
+    position: absolute;
+    z-index: 9;
+    border-radius: 100%;
+    top: 38px;
+    left: 38px;
+    width: 25px;
+    height: 25px;
+    background-color: #797979;
+}
+
+.img{
+    position: relative;
+    width: 100px;
+    height: 100px;
+}

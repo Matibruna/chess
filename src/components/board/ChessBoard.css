@@ -1,0 +1,25 @@
+.boardCol{
+    display: flex;
+    flex-direction: column;
+    width:fit-content;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.board{
+    margin: 10px;
+    margin-bottom: 50px;
+    width: fit-content;
+}
+
+.border{
+    border: 3px solid #000;
+}

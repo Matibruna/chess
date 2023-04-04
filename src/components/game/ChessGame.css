@@ -1,0 +1,12 @@
+.gameBtn{
+    margin: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    background: #85a5ff;
+    color: rgb(29, 29, 29);
+}
